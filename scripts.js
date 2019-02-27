@@ -29,22 +29,26 @@
 
 // task2(for)
 // const age = 19;
+// let zero = 0;
 // for(let i = 0; i < 1000; i++){
 //     if(i % age === 0 && i != 0){
-//         console.log(i);
+//       zero += i;
 //     }
 // }
+// console.log(zero);
 
 
 // task2(while)
 // const age = 19;
 // let i = 0;
+// let zero = 0;
 // while(i<1000){
 //     if(i % age === 0 && i != 0){
-//         console.log(i);
+//         zero += i
 //     }
 //     i++;
 // }
+// console.log(zero);
 
 
 
